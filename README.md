@@ -14,14 +14,16 @@ https://github.com/Seeed-Studio/Seeed_Arduino_CAN
 
 # SENDER (NANO)
 
-MCP2515  NANO
-  VCC     5V
-  GND     GND
-  CS      10
-  SO      12
-  SI      11
-  CLK     13
-  INT     2
+| MCP2515  | NANO |
+| :---: | :---: |
+|  VCC |  5V  |
+|  GND |  GND  |
+|  CS  |  10  |
+|  SO   |  12  |
+|  SI |  11  |
+|  CLK  |  13  |
+|  INT   |  2  |
+
 
 # RECEIVER (MEGA)
 
