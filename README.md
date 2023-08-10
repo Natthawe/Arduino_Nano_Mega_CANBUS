@@ -1,6 +1,7 @@
 # Arduino_Nano_Mega_CANBUS
 
-MCP2515 CAN BUS Module with Arduino
+### MCP2515 CAN BUS Module with Arduino
+![alt text](https://github.com/Natthawe/Arduino_Nano_Mega_CANBUS/blob/master/Images/MCP2515.jpg)
 
 ### Library
 https://github.com/Seeed-Studio/Seeed_Arduino_CAN
