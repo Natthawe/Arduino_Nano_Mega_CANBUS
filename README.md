@@ -27,11 +27,12 @@ https://github.com/Seeed-Studio/Seeed_Arduino_CAN
 
 # RECEIVER (MEGA)
 
-MCP2515  MEGA
-  VCC     5V
-  GND     GND
-  CS      53
-  SO      50
-  SI      51
-  CLK     52
-  INT     2
+| MCP2515  | MEGA |
+| :---: | :---: |
+|  VCC |  5V  |
+|  GND |  GND  |
+|  CS  |  53  |
+|  SO   |  50  |
+|  SI |  51  |
+|  CLK  |  52  |
+|  INT   |  2  |
