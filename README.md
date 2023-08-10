@@ -5,13 +5,12 @@ MCP2515 CAN BUS Module with Arduino
 ### Library
 https://github.com/Seeed-Studio/Seeed_Arduino_CAN
 
-PORT UNO MEGA NANO
----- --- ---- ----
-MOSI  11  51  11
-MISO  12  50  12
-SCK   13  52  13
-SS    10  53  10
-
+| PORT  | UNO  | MEGA | NANO |
+| ----- | ---- | ---- | ---- |
+|  MOSI |  11  |  51  |  11  |
+|  MISO |  12  |  50  |  12  |
+|  SCK  |  13  |  52  |  13  |
+|  SS   |  10  |  53  |  10  |
 
 # SENDER (NANO)
 
